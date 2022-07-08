@@ -9,7 +9,7 @@ kaggle-rsna-ihd is a Python library for
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install git+https://github.com/atamazian/kaggle_rsna_ihd.git
+pip install -q https://github.com/atamazian/kaggle-rsna-ihd/archive/refs/heads/main.zip
 ```
 
 ## Usage

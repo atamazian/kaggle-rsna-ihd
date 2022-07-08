@@ -1,8 +1,6 @@
 # kaggle-rsna-ihd
-In Kaggle: RSNA Intracranial Hemorrhage Detection competition, the challenge was to build an algorithm to detect acute intracranial hemorrhage and its subtypes.
-
-
-kaggle-rsna-ihd is a Python library for
+In Kaggle RSNA Intracranial Hemorrhage Detection competition, the challenge was to build an algorithm to detect acute intracranial hemorrhage and its subtypes.
+`kaggle-rsna-ihd` is a Python package to aid in building models for solving this problem.
 
 ## Installation
 

@@ -11,7 +11,7 @@ pip install -q https://github.com/atamazian/kaggle-rsna-ihd/archive/refs/heads/m
 ```
 
 ## Usage
-See example notebook.
+See [example notebook](https://www.kaggle.com/atamazian/kaggle-rsna-ihd-usage-example-training).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

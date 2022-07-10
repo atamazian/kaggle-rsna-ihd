@@ -4,7 +4,7 @@ In Kaggle RSNA Intracranial Hemorrhage Detection competition, the challenge was 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install `kaggle-rsna-ihd`.
 
 ```bash
 pip install -q https://github.com/atamazian/kaggle-rsna-ihd/archive/refs/heads/main.zip
